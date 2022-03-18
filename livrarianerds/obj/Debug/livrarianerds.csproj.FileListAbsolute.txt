@@ -1,0 +1,496 @@
+D:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.config
+D:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe
+D:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.pdb
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\livrarianerds\livrarianerds\bin\Debug\MySql.Data.dll
+D:\livrarianerds\livrarianerds\bin\Debug\EnvDTE.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Google.Protobuf.dll
+D:\livrarianerds\livrarianerds\bin\Debug\BouncyCastle.Crypto.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Renci.SshNet.dll
+D:\livrarianerds\livrarianerds\bin\Debug\stdole.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\livrarianerds\livrarianerds\bin\Debug\Microsoft.MSXML.dll
+D:\livrarianerds\livrarianerds\bin\Debug\MySql.Data.xml
+D:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Form1.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formAutores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCargo.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCategoria.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCliente.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaAutores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCargo.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCategoria.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCliente.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFornecedores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFuncionario.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFornecedores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFuncionario.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelAutores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCategoria.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFornecedores.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelLivros.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Properties.Resources.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.GenerateResource.cache
+D:\livrarianerds\livrarianerds\obj\Debug\RdlCompile.cache
+D:\livrarianerds\livrarianerds\obj\Debug\RdlCompile.compiled
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CopyComplete
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.pdb
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCargo.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCliente.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFuncionario.resources
+C:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.config
+C:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe
+C:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.pdb
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\livrarianerds\livrarianerds\bin\Debug\EnvDTE.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Google.Protobuf.dll
+C:\livrarianerds\livrarianerds\bin\Debug\BouncyCastle.Crypto.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Renci.SshNet.dll
+C:\livrarianerds\livrarianerds\bin\Debug\stdole.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\livrarianerds\livrarianerds\bin\Debug\Microsoft.MSXML.dll
+C:\livrarianerds\livrarianerds\bin\Debug\MySql.Data.xml
+C:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.AssemblyReference.cache
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Form1.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formAutores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCargo.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCategoria.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCliente.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaAutores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCargo.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCategoria.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCliente.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFornecedores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFuncionario.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFornecedores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFuncionario.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelAutores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCategoria.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFornecedores.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelLivros.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Properties.Resources.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCargo.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCliente.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFuncionario.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.GenerateResource.cache
+C:\livrarianerds\livrarianerds\obj\Debug\RdlCompile.cache
+C:\livrarianerds\livrarianerds\obj\Debug\RdlCompile.compiled
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CoreCompileInputs.cache
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.pdb
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csprojAssemblyReference.cache
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaLivros.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formLivros.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaLivros.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formLivros.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formVenda.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.config
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\livrarianerds.pdb
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\EnvDTE.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Google.Protobuf.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\BouncyCastle.Crypto.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Renci.SshNet.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\stdole.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\Microsoft.MSXML.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\MySql.Data.xml
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.AssemblyReference.cache
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Form1.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formAutores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCargo.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCategoria.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCliente.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaAutores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCargo.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCategoria.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCliente.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFornecedores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFuncionario.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaLivros.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFornecedores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFuncionario.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formLivros.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelAutores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCategoria.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFornecedores.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelLivros.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formVenda.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Properties.Resources.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCargo.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCliente.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFuncionario.resources
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.GenerateResource.cache
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\RdlCompile.cache
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\RdlCompile.compiled
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CoreCompileInputs.cache
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe
+C:\livrarianerds-com parcial do form vendas funcionando\livrarianerds\livrarianerds\obj\Debug\livrarianerds.pdb
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.config
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\livrarianerds.pdb
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\EnvDTE.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Google.Protobuf.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\BouncyCastle.Crypto.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Renci.SshNet.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\stdole.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\Microsoft.MSXML.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\MySql.Data.xml
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.AssemblyReference.cache
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Form1.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formAutores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCargo.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCategoria.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCliente.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaAutores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCargo.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCategoria.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCliente.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFornecedores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFuncionario.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaLivros.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFornecedores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFuncionario.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formLivros.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelAutores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCategoria.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFornecedores.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelLivros.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formVenda.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Properties.Resources.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCargo.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCliente.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFuncionario.resources
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.GenerateResource.cache
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\RdlCompile.cache
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\RdlCompile.compiled
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CoreCompileInputs.cache
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe
+C:\livrarianerds-comecodocalculododescontoeorestook\livrarianerds\livrarianerds\obj\Debug\livrarianerds.pdb
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.config
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\livrarianerds.pdb
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\EnvDTE.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Google.Protobuf.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\BouncyCastle.Crypto.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Renci.SshNet.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\stdole.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\Microsoft.MSXML.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\MySql.Data.xml
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.AssemblyReference.cache
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Form1.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formAutores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCargo.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCategoria.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formCliente.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaAutores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCargo.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCategoria.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaCliente.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFornecedores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaFuncionario.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formConsultaLivros.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFornecedores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formFuncionario.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formLivros.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelAutores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCategoria.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFornecedores.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelLivros.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaCompleto.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formVenda.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.Properties.Resources.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCargo.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelCliente.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelFuncionario.resources
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.GenerateResource.cache
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\RdlCompile.cache
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\RdlCompile.compiled
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CoreCompileInputs.cache
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.pdb
+C:\livrarianerds-compartedorelatoriofeito\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaSimples.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaCompleto.resources
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaSimples.resources
+D:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.manifest
+D:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.application
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe.manifest
+D:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.application
+C:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.exe.manifest
+C:\livrarianerds\livrarianerds\bin\Debug\livrarianerds.application
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaCompleto.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formRelVendaSimples.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.formVenda.resources
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.exe.manifest
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.application
+C:\livrarianerds\livrarianerds\obj\Debug\livrarianerds.csproj.CopyComplete
