@@ -31,6 +31,8 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 <br>
 5. Depois de separado todos os elementos anteriores e o banco de dados rodando esta na hora de abrir o projeto e executa-lo.
 <br>
+6. O manual do usuario esta explicando passo a passo de como se deve utilizar o sistema.
+
 
  
     
