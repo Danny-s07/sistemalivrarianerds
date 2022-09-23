@@ -11,9 +11,8 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 
 # 🛠️ Abrir e rodar o projeto
 
- - [Programas que precisa ter instalado no seu computador](#Programas)
-      - Microsoft Visual Studio
-      - MYSQL(no meu caso usei o MariaDB)
+<h4> Programas usados e que precisa ter para conseguir rodas o projeto</h4>
+-  Microsoft Visual Studio
   
  
     
