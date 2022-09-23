@@ -11,9 +11,15 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 <br>
 
 # 🛠️ Abrir e rodar o projeto
+
+<h2> Programas que tem que ter na sua maquina</h2>
 - Microsoft Visual Studio
 - Mysql(MariaDB)
 
+<h2> Passo depois de Baixar o Zip do Projeto</h2>
+- Apos baixar o zip  extraia o conteudo
+- Depois separe o livraria_nerds-Bancodedados.sql do restante do projeto
+- Os outros arquivos 
 
  
     
