@@ -12,24 +12,18 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 
 # 🛠️ Abrir e rodar o projeto
 
-<h2> Programas que tem que ter na sua maquina</h2>
-+ Microsoft Visual Studio
-<br>
-2. Mysql(MariaDB)
+## Programas que tem que ter na sua maquina
+* Microsoft Visual Studio
+* Mysql(MariaDB)
 
-<br>
-<h2> Passo depois de Baixar o Zip do Projeto</h2>
-1. Apos baixar o zip  extraia o conteudo
-<br>
-2.Depois separe o livraria_nerds-Bancodedados.sql do restante do projeto
-<br>
-3. Depois separe o manual do usuario tambem, ele vai ser seu guia de uso apos vc abrir e executar o projeto
-<br>
-4. Apos fazer todas as separações você precisa pegar o banco de dados e adicionar ele na plataforma que usa e deixar o banco funcionando. 
-<br>
- A) O banco de dados precisa estar funcinando para que você consiga executar todos os passos que estão descritos no manual do usuario- Sistema Livraria Nerds-Final
-<br>
-5. Depois de separado todos os elementos anteriores e o banco de dados rodando esta na hora de abrir o projeto e executa-lo.
+
+## Passo depois de Baixar o Zip do Projeto
+* Apos baixar o zip  extraia o conteudo
+* Depois separe o livraria_nerds-Bancodedados.sql do restante do projeto
+* Depois separe o manual do usuario tambem, ele vai ser seu guia de uso apos vc abrir e executar o projeto
+* Apos fazer todas as separações você precisa pegar o banco de dados e adicionar ele na plataforma que usa e deixar o banco funcionando. 
+* O banco de dados precisa estar funcinando para que você consiga executar todos os passos que estão descritos no manual do usuario- Sistema Livraria Nerds-Final
+* Depois de separado todos os elementos anteriores e o banco de dados rodando esta na hora de abrir o projeto e executa-lo.
 <br>
 
 
