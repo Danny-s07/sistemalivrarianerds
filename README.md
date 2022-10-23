@@ -13,7 +13,7 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 # 🛠️ Abrir e rodar o projeto
 
 <h2> Programas que tem que ter na sua maquina</h2>
-- Microsoft Visual Studio
+1. Microsoft Visual Studio
 <br>
 2. Mysql(MariaDB)
 
