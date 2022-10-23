@@ -22,7 +22,7 @@ Sistema criado em C# de uma livraria ficticia .Esse projeto foi feito durante o 
 * Depois separe o livraria_nerds-Bancodedados.sql do restante do projeto
 * Depois separe o manual do usuario tambem, ele vai ser seu guia de uso apos vc abrir e executar o projeto
 * Apos fazer todas as separações você precisa pegar o banco de dados e adicionar ele na plataforma que usa e deixar o banco funcionando. 
-* O banco de dados precisa estar funcinando para que você consiga executar todos os passos que estão descritos no manual do usuario- Sistema Livraria Nerds-Final
+*    O banco de dados precisa estar funcinando para que você consiga executar todos os passos que estão descritos no manual do usuario- Sistema Livraria Nerds-Final
 * Depois de separado todos os elementos anteriores e o banco de dados rodando esta na hora de abrir o projeto e executa-lo.
 <br>
 
